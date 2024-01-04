@@ -1,7 +1,7 @@
 ﻿# kickstarter
 -This project represents a solution for kickstarter frauds,
 -You can create campaigns and people will donate, also you would requests these donates for good purposes
-
+-
 ![Ekran Görüntüsü (270)](https://github.com/bugradursun/kickstarter/assets/72981010/8e00e920-1942-4e13-a56b-d7c2281bd5fe)
 ![Ekran Görüntüsü (271)](https://github.com/bugradursun/kickstarter/assets/72981010/22a6e45a-a5d0-493c-b3ff-c294ecf91832)
 ![Ekran Görüntüsü (272)](https://github.com/bugradursun/kickstarter/assets/72981010/bcb03342-e58f-46d5-9654-d0e39c1f1bc6)
