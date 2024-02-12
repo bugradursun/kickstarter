@@ -1,5 +1,6 @@
 ﻿# kickstarter
--This project represents a solution for kickstarter frauds,
+-Prevent kickstarter frauds
+This project represents a solution for kickstarter frauds,
 -You can create campaigns and people will donate, also you would requests these donates for good purposes
 -
 ![Ekran Görüntüsü (270)](https://github.com/bugradursun/kickstarter/assets/72981010/8e00e920-1942-4e13-a56b-d7c2281bd5fe)
